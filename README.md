@@ -45,9 +45,15 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 
-
+```
+Name : SANJEEVI J
+Reg.no : 212222110040
+```
 ## OUTPUT 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![Screenshot 2024-04-23 110944](https://github.com/Dhiyanesh24/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118362288/77e83967-0548-4165-899c-70b4fdbfe914)
+![iot channel](https://github.com/Dhiyanesh24/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118362288/96bdb6d9-5e5c-45ab-b005-b9649504ae16)
+![iot end device](https://github.com/Dhiyanesh24/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118362288/0023f149-f1af-4e1a-915c-7f1674154acb)
 
 
 
